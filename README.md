@@ -5,7 +5,6 @@ A beautifully designed countdown timer built with **Next.js**. It allows users t
 ## 🔧 Features
 
 - ⏰ Input your custom date and time
-- 🎨 Light and dark theme support
 - 🔊 Plays a celebration sound when countdown ends
 - 💻 Responsive and modern UI
 - ⚡ Built with Next.js 15
